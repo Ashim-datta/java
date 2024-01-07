@@ -8,8 +8,22 @@
 //console.log(typeof BooleanisLoggedIn);
 // console.log(BooleanisLoggedIn);
 
-let somenumber = 30
-console.log(typeof somenumber);
-let stringnumber = String(somenumber)
-console.log(stringnumber);
-console.log(typeof stringnumber);
+// let somenumber = 30
+// console.log(typeof somenumber);
+// let stringnumber = String(somenumber)
+// console.log(stringnumber);
+// console.log(typeof stringnumber);
+
+//************ Operations ********************/
+
+// let value = 4
+// let NegValue = -value
+// // console.log(NegValue);
+
+// console.log(2*2);
+// console.log(2**5);
+// console.log(2%3);
+
+let gameCounter = 100
+gameCounter++;
+console.log(gameCounter);
